@@ -8,4 +8,3 @@ ingresa con las siguientes credenciales.
 
 username: emilys
 contraseña: emilyspass
-# React + Vite
